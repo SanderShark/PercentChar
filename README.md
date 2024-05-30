@@ -7,5 +7,8 @@ This code is inteded to be used in something like Caido as a workflow, although 
 ## Bash 
 This was for ease of use, I might eventually add a python script.
 
-### Instructions
+### Example Usage for Bash
+```
+url_per_char.sh "Hello, world!"
+```
 
